@@ -1,6 +1,10 @@
 # DGX A100-Snippets - Bash
 
-## NVIDIA SMI test script
+## Contents
+* [NVIDIA SMI test](#nvidia-smi-test)
+* ...
+
+## NVIDIA SMI test
 
 The `nvidia-smi` tool shows GPUs information on the standard output.
 
