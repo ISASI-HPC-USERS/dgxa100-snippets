@@ -6,7 +6,7 @@
 
 ## NVIDIA SMI test
 
-The `nvidia-smi` tool shows GPUs information on the standard output.
+The [`nvidia-smi`](https://docs.nvidia.com/deploy/nvidia-smi/index.html) tool shows GPUs information on the standard output.
 
 ### Interactive execution - SRUN command
 
