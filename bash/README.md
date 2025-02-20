@@ -20,6 +20,6 @@ Usage of the SLURM script `nvidia-smi.slurm`:
 $ sbatch nvidia-smi.slurm
 ```
 
-The standard output and standard error of the job are redirected to files named job.<JOB_ID>.out and job.<JOB_ID>.err. For details, please refer to the SLURM directives in the file.
+The standard output and standard error of the job are redirected to files named `job.<JOB_ID>.out` and `job.<JOB_ID>.err`. 
 For details, please refer to the SLURM directives and related comments in the script `nvidia-smi.slurm`.
 
