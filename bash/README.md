@@ -6,7 +6,8 @@
 
 ## NVIDIA SMI test
 
-The [`nvidia-smi`](https://docs.nvidia.com/deploy/nvidia-smi/index.html) tool shows GPUs information on the standard output.
+[`nvidia-smi`](https://docs.nvidia.com/deploy/nvidia-smi/index.html) is a command-line tool that provides monitoring and management capabilities for NVIDIA GPUs.
+Running the `nvidia-smi` command without parameters displays the main information of the available GPUs on the standard output.
 
 ### Interactive execution - SRUN command
 
