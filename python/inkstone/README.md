@@ -28,6 +28,8 @@ Step 4: run the SLURM job
 (.venv)$ sbatch run.slurm
 ```
 
-To check the job status, you can use the command `$ squeue`. 
+For job options, please refer to the SLURM directives in the [run.slurm](./run.slurm) file
+
+To check the job status, you can use the `squeue` command. 
 Upon job completion, the `output.png` file containing the plot will be created in the current directory.
 To transfer the plot file, you may use the [`scp`](http://man.he.net/?topic=scp&section=all) command or an [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) client.
