@@ -5,5 +5,6 @@ Snippets for NVIDIA DGX A100 users.
 ## Contents
 
 * [Bash snippets](./bash/README.md)
+* [Python snippets](./python/README.md)
 * ...
 
