@@ -1,6 +1,6 @@
-# DGX A100-Snippets - Python - inkstone
+# DGX A100-Snippets - Python - Meent
 
-Snippet based on the [meent](https://github.com/kc-ml2/meent/) notebook [`02-autograd-and-optimization-pytorch.ipynb`](https://github.com/kc-ml2/meent/blob/main/tutorials/02-autograd-and-optimization-pytorch.ipynb) - PyTorch backend for Tensor computation with strong GPU acceleration.
+Snippet based on the [Meent](https://github.com/kc-ml2/meent/) notebook [`02-autograd-and-optimization-pytorch.ipynb`](https://github.com/kc-ml2/meent/blob/main/tutorials/02-autograd-and-optimization-pytorch.ipynb) - PyTorch backend for Tensor computation with strong GPU acceleration.
 
 ## 
 
