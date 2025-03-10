@@ -8,4 +8,5 @@
 #SBATCH --error=job.%J.err              # error output file for the job
 #SBATCH --output=job.%J.out             # standard output file for the job
 
-matlab -batch 'run("/mnt/dati/homes/pvanacore/git/isasi-hpc-users/dgxa100-snippets/matlab/multiple_gpu/main.m")'
+matlab -batch 'run("main.m")'
+
