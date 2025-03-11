@@ -1,4 +1,4 @@
-# DGX A100-Snippets - Python - Matlab
+# DGX A100-Snippets - Matlab
 
 ## Run the SLURM job
 
