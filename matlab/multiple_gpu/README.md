@@ -1,4 +1,4 @@
-# DGX A100-Snippets - Python - Matlab 
+# DGX A100-Snippets - Matlab 
 
 Snippet based on [Run MATLAB Functions on Multiple GPUs - Mathworkds](https://it.mathworks.com/help/parallel-computing/run-matlab-functions-on-multiple-gpus.html)
 
